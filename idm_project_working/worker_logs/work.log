@@ -1,0 +1,57 @@
+[2020-10-27 10:09:53,676: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 2.00 seconds... (1/100)
+
+[2020-10-27 10:10:09,744: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 4.00 seconds... (2/100)
+
+[2020-10-27 10:10:27,778: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 6.00 seconds... (3/100)
+
+[2020-10-27 10:10:47,834: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 8.00 seconds... (4/100)
+
+[2020-10-27 10:11:09,952: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 10.00 seconds... (5/100)
+
+[2020-10-27 10:11:34,009: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 12.00 seconds... (6/100)
+
+[2020-10-27 10:12:00,057: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 14.00 seconds... (7/100)
+
+[2020-10-27 10:12:28,146: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 16.00 seconds... (8/100)
+
+[2020-10-27 10:13:09,457: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 2.00 seconds... (1/100)
+
+[2020-10-27 10:13:25,504: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 4.00 seconds... (2/100)
+
+[2020-10-27 10:13:43,553: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 6.00 seconds... (3/100)
+
+[2020-10-27 10:14:03,609: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 8.00 seconds... (4/100)
+
+[2020-10-27 10:14:25,668: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 10.00 seconds... (5/100)
+
+[2020-10-27 10:14:49,750: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 12.00 seconds... (6/100)
+
+[2020-10-27 10:15:15,799: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 14.00 seconds... (7/100)
+
+[2020-10-27 10:16:11,446: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 2.00 seconds... (1/100)
+
+[2020-10-27 10:16:27,496: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 4.00 seconds... (2/100)
+
+[2020-10-27 10:16:45,552: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 6.00 seconds... (3/100)
+
+[2020-10-27 10:17:05,600: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: timed out.
+Trying again in 8.00 seconds... (4/100)
+

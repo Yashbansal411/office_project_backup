@@ -1,0 +1,110 @@
+[2020-11-03 07:48:20,298: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: [Errno 111] Connection refused.
+Trying again in 2.00 seconds... (1/100)
+
+[2020-11-03 07:48:22,693: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: [Errno 111] Connection refused.
+Trying again in 4.00 seconds... (2/100)
+
+[2020-11-03 07:48:26,765: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: [Errno 111] Connection refused.
+Trying again in 6.00 seconds... (3/100)
+
+[2020-11-03 07:48:32,814: INFO/MainProcess] Connected to amqp://guest:**@broker:5672//
+[2020-11-03 07:48:32,886: INFO/MainProcess] mingle: searching for neighbors
+[2020-11-03 07:48:33,951: INFO/MainProcess] mingle: all alone
+[2020-11-03 07:48:34,075: INFO/MainProcess] celery@9fa67fc65e5f ready.
+[2020-11-03 07:50:03,748: INFO/MainProcess] Received task: count_substring.get_value[JIqZRQktzG96-V-ensMlPg]  
+[2020-11-03 07:50:05,034: INFO/MainProcess] Received task: count_substring.get_value[gH8Qt2fSzejKs8DyQukQkw]  
+[2020-11-03 07:50:06,133: INFO/MainProcess] Received task: count_substring.get_value[Szy_4GFDmrwliU3FgXswKw]  
+[2020-11-03 07:50:08,900: WARNING/ForkPoolWorker-1] /usr/local/lib/python3.8/site-packages/pymongo/topology.py:161: UserWarning: MongoClient opened before fork. Create MongoClient only after forking. See PyMongo's documentation for details: https://pymongo.readthedocs.io/en/stable/faq.html#is-pymongo-fork-safe
+  warnings.warn(
+[2020-11-03 07:50:08,950: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 12%, occurrence is [5]
+[2020-11-03 07:50:10,075: WARNING/ForkPoolWorker-3] /usr/local/lib/python3.8/site-packages/pymongo/topology.py:161: UserWarning: MongoClient opened before fork. Create MongoClient only after forking. See PyMongo's documentation for details: https://pymongo.readthedocs.io/en/stable/faq.html#is-pymongo-fork-safe
+  warnings.warn(
+[2020-11-03 07:50:10,091: INFO/ForkPoolWorker-3] State of the task is progress, percentage of task completed 12%, occurrence is [5]
+[2020-11-03 07:50:10,461: INFO/MainProcess] Received task: count_substring.get_value[0cmQdAq5ZY3eBcnMpX9E-A]  
+[2020-11-03 07:50:11,211: WARNING/ForkPoolWorker-2] /usr/local/lib/python3.8/site-packages/pymongo/topology.py:161: UserWarning: MongoClient opened before fork. Create MongoClient only after forking. See PyMongo's documentation for details: https://pymongo.readthedocs.io/en/stable/faq.html#is-pymongo-fork-safe
+  warnings.warn(
+[2020-11-03 07:50:11,246: INFO/ForkPoolWorker-2] State of the task is progress, percentage of task completed 12%, occurrence is [5]
+[2020-11-03 07:50:11,465: INFO/MainProcess] Received task: count_substring.get_value[ud4WDltUbdXa1NgQTaSL2w]  
+[2020-11-03 07:50:13,957: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 25%, occurrence is [5, 4]
+[2020-11-03 07:50:15,101: INFO/ForkPoolWorker-3] State of the task is progress, percentage of task completed 25%, occurrence is [5, 4]
+[2020-11-03 07:50:15,533: WARNING/ForkPoolWorker-4] /usr/local/lib/python3.8/site-packages/pymongo/topology.py:161: UserWarning: MongoClient opened before fork. Create MongoClient only after forking. See PyMongo's documentation for details: https://pymongo.readthedocs.io/en/stable/faq.html#is-pymongo-fork-safe
+  warnings.warn(
+[2020-11-03 07:50:15,575: INFO/ForkPoolWorker-4] State of the task is progress, percentage of task completed 12%, occurrence is [5]
+[2020-11-03 07:50:16,258: INFO/ForkPoolWorker-2] State of the task is progress, percentage of task completed 25%, occurrence is [5, 4]
+[2020-11-03 07:53:01,955: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: [Errno 111] Connection refused.
+Trying again in 2.00 seconds... (1/100)
+
+[2020-11-03 07:53:04,003: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: [Errno 111] Connection refused.
+Trying again in 4.00 seconds... (2/100)
+
+[2020-11-03 07:53:08,064: INFO/MainProcess] Connected to amqp://guest:**@broker:5672//
+[2020-11-03 07:53:08,136: INFO/MainProcess] mingle: searching for neighbors
+[2020-11-03 07:53:09,256: INFO/MainProcess] mingle: all alone
+[2020-11-03 07:53:09,317: INFO/MainProcess] celery@9fa67fc65e5f ready.
+[2020-11-03 07:53:09,321: INFO/MainProcess] Received task: count_substring.get_value[ud4WDltUbdXa1NgQTaSL2w]  
+[2020-11-03 07:53:14,450: WARNING/ForkPoolWorker-1] /usr/local/lib/python3.8/site-packages/pymongo/topology.py:161: UserWarning: MongoClient opened before fork. Create MongoClient only after forking. See PyMongo's documentation for details: https://pymongo.readthedocs.io/en/stable/faq.html#is-pymongo-fork-safe
+  warnings.warn(
+[2020-11-03 07:53:14,465: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 12%, occurrence is [5]
+[2020-11-03 07:53:19,479: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 25%, occurrence is [5, 4]
+[2020-11-03 07:53:24,492: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 38%, occurrence is [5, 4, 6]
+[2020-11-03 07:53:29,503: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 50%, occurrence is [5, 4, 6, 4]
+[2020-11-03 07:53:34,529: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 62%, occurrence is [5, 4, 6, 4, 6]
+[2020-11-03 07:53:39,542: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 75%, occurrence is [5, 4, 6, 4, 6, 1]
+[2020-11-03 07:53:44,551: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 88%, occurrence is [5, 4, 6, 4, 6, 1, 3]
+[2020-11-03 07:53:49,563: INFO/ForkPoolWorker-1] State of the task is progress, percentage of task completed 100%, occurrence is [5, 4, 6, 4, 6, 1, 3, 5]
+[2020-11-03 07:53:49,564: INFO/ForkPoolWorker-1] State of the task is success, percentage of task completed 100%, occurrence is [5, 4, 6, 4, 6, 1, 3, 5]
+[2020-11-03 07:53:49,574: INFO/ForkPoolWorker-1] Task count_substring.get_value[ud4WDltUbdXa1NgQTaSL2w] succeeded in 40.14473632999943s: {'percent': '100%', 'occurrence': [5, 4, 6, 4, 6, 1, 3, 5], 'string': ['aaaaa', 'abababa', 'aaaaaa', 'abababa', 'aaaqaqaqaq', 'a', 'aaa', 'aaaaa']}
+[2020-11-03 07:55:16,429: INFO/MainProcess] Connected to amqp://guest:**@broker:5672//
+[2020-11-03 07:55:16,481: INFO/MainProcess] mingle: searching for neighbors
+[2020-11-03 07:55:17,766: INFO/MainProcess] mingle: all alone
+[2020-11-03 07:55:17,807: INFO/MainProcess] celery@b0124a18fa74 ready.
+[2020-11-03 07:56:14,066: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: [Errno 111] Connection refused.
+Trying again in 2.00 seconds... (1/100)
+
+[2020-11-03 07:56:16,556: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: [Errno 111] Connection refused.
+Trying again in 4.00 seconds... (2/100)
+
+[2020-11-03 07:56:20,627: ERROR/MainProcess] consumer: Cannot connect to amqp://guest:**@broker:5672//: [Errno 111] Connection refused.
+Trying again in 6.00 seconds... (3/100)
+
+[2020-11-03 07:56:26,688: INFO/MainProcess] Connected to amqp://guest:**@broker:5672//
+[2020-11-03 07:56:26,755: INFO/MainProcess] mingle: searching for neighbors
+[2020-11-03 07:56:27,834: INFO/MainProcess] mingle: all alone
+[2020-11-03 07:56:27,924: INFO/MainProcess] celery@2ccaf9593f32 ready.
+[2020-11-03 14:06:12,507: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 318, in start
+    blueprint.start(self)
+  File "/usr/local/lib/python3.8/site-packages/celery/bootsteps.py", line 119, in start
+    step.start(parent)
+  File "/usr/local/lib/python3.8/site-packages/celery/worker/consumer/consumer.py", line 599, in start
+    c.loop(*c.loop_args())
+  File "/usr/local/lib/python3.8/site-packages/celery/worker/loops.py", line 83, in asynloop
+    next(loop)
+  File "/usr/local/lib/python3.8/site-packages/kombu/asynchronous/hub.py", line 364, in create_loop
+    cb(*cbargs)
+  File "/usr/local/lib/python3.8/site-packages/kombu/transport/base.py", line 238, in on_readable
+    reader(loop)
+  File "/usr/local/lib/python3.8/site-packages/kombu/transport/base.py", line 220, in _read
+    drain_events(timeout=0)
+  File "/usr/local/lib/python3.8/site-packages/amqp/connection.py", line 508, in drain_events
+    while not self.blocking_read(timeout):
+  File "/usr/local/lib/python3.8/site-packages/amqp/connection.py", line 514, in blocking_read
+    return self.on_inbound_frame(frame)
+  File "/usr/local/lib/python3.8/site-packages/amqp/method_framing.py", line 55, in on_frame
+    callback(channel, method_sig, buf, None)
+  File "/usr/local/lib/python3.8/site-packages/amqp/connection.py", line 520, in on_inbound_method
+    return self.channels[channel_id].dispatch_method(
+  File "/usr/local/lib/python3.8/site-packages/amqp/abstract_channel.py", line 145, in dispatch_method
+    listener(*args)
+  File "/usr/local/lib/python3.8/site-packages/amqp/connection.py", line 649, in _on_close
+    self._x_close_ok()
+  File "/usr/local/lib/python3.8/site-packages/amqp/connection.py", line 664, in _x_close_ok
+    self.send_method(spec.Connection.CloseOk, callback=self._on_close_ok)
+  File "/usr/local/lib/python3.8/site-packages/amqp/abstract_channel.py", line 59, in send_method
+    conn.frame_writer(1, self.channel_id, sig, args, content)
+  File "/usr/local/lib/python3.8/site-packages/amqp/method_framing.py", line 189, in write_frame
+    write(view[:offset])
+  File "/usr/local/lib/python3.8/site-packages/amqp/transport.py", line 305, in write
+    self._write(s)
+ConnectionResetError: [Errno 104] Connection reset by peer

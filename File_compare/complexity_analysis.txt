@@ -1,0 +1,14 @@
+Old code - steps and worst time complexity
+      1.1 read the inputs from file and create 2 lists - O(m)+O(n) // m= number of lines in inputfile2, n = number of lines in file1.
+      1.2 search the matching index  - O(m*n)
+      1.3 find a place to adjust the mismatches so that no overwritting done on matched inputs - O(n)
+      1.4 traverse the output list and push output in a file - O(n)
+      
+New code 
+      2.1 read the inputs from file and create 2 lists - O(m)+O(n) // m= number of lines in inputfile2, n = number of lines in file1.
+      2.2 sort the input file1 - O(nlog(n)) //quick sort 
+      2.3 find the first occurrence of raw_log_time - O(log(n))
+      2.4 search the exact index - O(n)
+      2.5 overall complexity of the process to find the index = O(mlog(n)) + O(n)
+      2.6 find a place to adjust the mismatches so that no overwritting done on matched inputs - O(n)
+      2.7 traverse the output list and push output in a file - O(n)

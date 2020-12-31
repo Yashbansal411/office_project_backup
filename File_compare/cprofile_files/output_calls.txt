@@ -1,0 +1,17 @@
+Thu Dec 17 16:31:27 2020    output.dat
+
+         170159665 function calls in 300.317 seconds
+
+   Ordered by: call count
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+168659661   18.432    0.000   18.432    0.000 {built-in method builtins.len}
+   500000   26.491    0.000   26.491    0.000 {built-in method builtins.print}
+   500000    4.973    0.000    5.085    0.000 file_compare_further_optimized_json.py:27(processMisMatch)
+   500000   18.535    0.000   18.698    0.000 file_compare_further_optimized_json.py:10(myBinarySearch)
+        1    0.000    0.000  300.317  300.317 {built-in method builtins.exec}
+        1    0.019    0.019  300.317  300.317 <string>:1(<module>)
+        1  231.866  231.866  300.298  300.298 file_compare_further_optimized_json.py:55(mainFunc)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
